@@ -142,10 +142,14 @@
     <ClCompile Include="kursach.cpp" />
     <ClCompile Include="type1.cpp" />
     <ClCompile Include="type2.cpp" />
+    <ClCompile Include="type3.cpp" />
+    <ClCompile Include="type4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="type1.h" />
     <ClInclude Include="type2.h" />
+    <ClInclude Include="type3.h" />
+    <ClInclude Include="type4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

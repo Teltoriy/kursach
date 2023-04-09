@@ -24,12 +24,24 @@
     <ClCompile Include="type2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="type3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="type4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="type1.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="type2.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="type3.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="type4.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
