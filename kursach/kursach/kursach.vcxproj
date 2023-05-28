@@ -144,12 +144,20 @@
     <ClCompile Include="type2.cpp" />
     <ClCompile Include="type3.cpp" />
     <ClCompile Include="type4.cpp" />
+    <ClCompile Include="type5.cpp" />
+    <ClCompile Include="type6.cpp" />
+    <ClCompile Include="type7.cpp" />
+    <ClCompile Include="type8.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="type1.h" />
     <ClInclude Include="type2.h" />
     <ClInclude Include="type3.h" />
     <ClInclude Include="type4.h" />
+    <ClInclude Include="type5.h" />
+    <ClInclude Include="type6.h" />
+    <ClInclude Include="type7.h" />
+    <ClInclude Include="type8.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

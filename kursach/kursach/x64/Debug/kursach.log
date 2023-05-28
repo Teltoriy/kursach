@@ -1,0 +1,5 @@
+﻿  kursach.cpp
+Z:\gitxdd\kursach\kursach\kursach\kursach.cpp(28,44): warning C4101: e: неиспользованная локальная переменная
+Z:\gitxdd\kursach\kursach\kursach\kursach.cpp(39,44): warning C4101: e: неиспользованная локальная переменная
+Z:\gitxdd\kursach\kursach\kursach\kursach.cpp(50,44): warning C4101: e: неиспользованная локальная переменная
+  kursach.vcxproj -> Z:\gitxdd\kursach\kursach\x64\Debug\kursach.exe
